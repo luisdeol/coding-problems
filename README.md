@@ -13,8 +13,8 @@ Once in a while I will go through some solutions I feel that can be optimized.
 
 ## HackerRank
 
-[Arrays: Left Rotation](https://github.com/luisdeol/coding-problems/blob/master/hackerrank/LeftRotation/Program.cs)
-
+[Arrays: Left Rotation](https://github.com/luisdeol/coding-problems/blob/master/hackerrank/LeftRotation/Program.cs)  
+[Cats and a Mouse](https://github.com/luisdeol/coding-problems/blob/master/hackerrank/CatsAndMouse/Program.cs)
 ## Daily Coding Problems
 [Daily 1](https://github.com/luisdeol/coding-problems/blob/master/daily/daily-1/Program.cs)  
 [Daily 2](https://github.com/luisdeol/coding-problems/blob/master/daily/daily-2/Program.cs)  
