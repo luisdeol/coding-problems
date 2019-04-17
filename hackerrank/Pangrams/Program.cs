@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
+/*
+    https://www.hackerrank.com/challenges/pangrams/problem
+*/
 namespace Pangrams
 {
     class Program
