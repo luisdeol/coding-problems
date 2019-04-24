@@ -11,6 +11,8 @@ Once in a while I will go through some solutions I feel that can be optimized.
 [Reverse Words in a String](https://github.com/luisdeol/coding-problems/blob/master/leetcode/ReverseWordsInAString/Program.cs)  
 [Available Captures for Rook](https://github.com/luisdeol/coding-problems/blob/master/leetcode/AvailableCapturesForRook/Program.cs)  
 [Toeplitz Matrix](https://github.com/luisdeol/coding-problems/blob/master/leetcode/ToeplitzMatrix/Program.cs)  
+[Remove Duplicates in Sorted List](https://github.com/luisdeol/coding-problems/blob/master/leetcode/RemoveDuplicatesSortedLinkedList/Program.cs)    
+[Next Greater Node in Linked List](https://github.com/luisdeol/coding-problems/blob/master/leetcode/NextGreaterNodeLinkedList/Program.cs)  
 
 ## HackerRank
 
