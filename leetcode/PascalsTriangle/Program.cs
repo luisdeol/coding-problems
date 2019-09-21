@@ -25,7 +25,8 @@ namespace PascalsTriangle
                 var count = 0;
                 list[i - 1].Add(1);
                 
-                while (count < i - 1) {if (i > 1 && count > 0) {
+                while (count < i - 1) {
+                    if (i > 1 && count > 0) {
                         list[i - 1].Add(list[i - 2][count - 1] + list[i - 2][count]);
                     }
                     
