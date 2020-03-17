@@ -13,8 +13,8 @@ Once in a while I will go through some solutions I feel that can be optimized.
 [Toeplitz Matrix](https://github.com/luisdeol/coding-problems/blob/master/leetcode/ToeplitzMatrix/Program.cs)  
 [Remove Duplicates in Sorted List](https://github.com/luisdeol/coding-problems/blob/master/leetcode/RemoveDuplicatesSortedLinkedList/Program.cs)    
 [Next Greater Node in Linked List](https://github.com/luisdeol/coding-problems/blob/master/leetcode/NextGreaterNodeLinkedList/Program.cs)  
-[Add to Array Form of Integer](https://github.com/luisdeol/coding-problems/blob/master/leetcode/AddToArrayForm/Program.cs)
-[Decompress to run-length encoded list](https://github.com/luisdeol/coding-problems/blob/master/leetcode/DecompressRLElist/Program.cs)
+[Add to Array Form of Integer](https://github.com/luisdeol/coding-problems/blob/master/leetcode/AddToArrayForm/Program.cs)  
+[Decompress to run-length encoded list](https://github.com/luisdeol/coding-problems/blob/master/leetcode/DecompressRLElist/Program.cs)  
 
 ## HackerRank
 
