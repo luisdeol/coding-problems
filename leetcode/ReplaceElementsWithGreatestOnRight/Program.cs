@@ -30,7 +30,7 @@ namespace ReplaceElementsWithGreatestOnRight
             for (var i = 0; i < arr.Length - 1; i++) {
                 if (arr[i] == biggest) {
                     var toSkip = i + 1;
-                    biggest = (arr.Skip(i + 1).Take(arr.Length - toSkip)).Max();
+                    biggest = (arr.Skip(toSkip).Take(arr.Length - toSkip)).Max();
                 }
                 
                 arr[i] = biggest;
