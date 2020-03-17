@@ -15,6 +15,8 @@ Once in a while I will go through some solutions I feel that can be optimized.
 [Next Greater Node in Linked List](https://github.com/luisdeol/coding-problems/blob/master/leetcode/NextGreaterNodeLinkedList/Program.cs)  
 [Add to Array Form of Integer](https://github.com/luisdeol/coding-problems/blob/master/leetcode/AddToArrayForm/Program.cs)  
 [Decompress to run-length encoded list](https://github.com/luisdeol/coding-problems/blob/master/leetcode/DecompressRLElist/Program.cs)  
+[Minimum Time Visiting All Points](https://github.com/luisdeol/coding-problems/blob/master/leetcode/MinimumTimeVisitingAllPoints/Program.cs)  
+[Replace Elements with Greatest Element on Right Side](https://github.com/luisdeol/coding-problems/blob/master/leetcode/ReplaceElementsWithGreatestOnRight/Program.cs)  
 
 ## HackerRank
 
