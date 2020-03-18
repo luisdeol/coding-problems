@@ -17,6 +17,7 @@ Once in a while I will go through some solutions I feel that can be optimized.
 [Decompress to run-length encoded list](https://github.com/luisdeol/coding-problems/blob/master/leetcode/DecompressRLElist/Program.cs)  
 [Minimum Time Visiting All Points](https://github.com/luisdeol/coding-problems/blob/master/leetcode/MinimumTimeVisitingAllPoints/Program.cs)  
 [Replace Elements with Greatest Element on Right Side](https://github.com/luisdeol/coding-problems/blob/master/leetcode/ReplaceElementsWithGreatestOnRight/Program.cs)  
+[Cells with Odd Values in a Matrix](https://github.com/luisdeol/coding-problems/blob/master/leetcode/CellsOddValuesMatrixAfterIncrements/Program.cs)  
 
 ## HackerRank
 
