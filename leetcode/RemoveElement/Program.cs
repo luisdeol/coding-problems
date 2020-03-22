@@ -47,17 +47,13 @@ namespace RemoveElement
             
             var head = lastIndexOf + 1;
             
-            if (lastIndexOf == nums.Length) {
-                return nums.Length - quantity;
-            } else {
-                while (head <= nums.Length - 1) {
-                    nums[indexOf] = nums[head];
-                    head++;
-                    indexOf++;
-                }
-                
-                return indexOf;
+            while (head <= nums.Length - 1) {
+                nums[indexOf] = nums[head];
+                head++;
+                indexOf++;
             }
+            
+            return indexOf;
         }
 
         public static void PrintArray(IList<int> array) {
