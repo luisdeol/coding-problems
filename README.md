@@ -19,8 +19,9 @@ Once in a while I will go through some solutions I feel that can be optimized.
 [Replace Elements with Greatest Element on Right Side](https://github.com/luisdeol/coding-problems/blob/master/leetcode/ReplaceElementsWithGreatestOnRight/Program.cs)  
 [Cells with Odd Values in a Matrix](https://github.com/luisdeol/coding-problems/blob/master/leetcode/CellsOddValuesMatrixAfterIncrements/Program.cs)  
 [Find N Unique Integers Sum up to Zero](https://github.com/luisdeol/coding-problems/blob/master/leetcode/UniqueIntegersSumZero/Program.cs)  
-[Lucky Numbers in a Matrix](https://github.com/luisdeol/coding-problems/blob/master/leetcode/LuckyNumbers/Program.cs)    
-
+[Lucky Numbers in a Matrix](https://github.com/luisdeol/coding-problems/blob/master/leetcode/LuckyNumbers/Program.cs)      
+[Remove Elements In-Place](https://github.com/luisdeol/coding-problems/blob/master/leetcode/RemoveElement/Program.cs)  
+  
 ## HackerRank
 
 [Arrays: Left Rotation](https://github.com/luisdeol/coding-problems/blob/master/hackerrank/LeftRotation/Program.cs)  
